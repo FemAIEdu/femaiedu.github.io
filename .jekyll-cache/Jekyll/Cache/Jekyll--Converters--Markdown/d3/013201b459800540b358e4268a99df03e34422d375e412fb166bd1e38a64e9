@@ -1,0 +1,159 @@
+I"F<h1>Team</h1>
+<center><img src="/images/team.jpg" style="border-radius: 0;" width="1200" height="250" align="center" /></center>
+<p><br /></p>
+
+<div class="row">
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/derya.png" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Derya Akbaba</h4>
+  <h5><i>KTH</i></h5>
+  akbaba@kth.se
+  <br /><a href="https://gotdairyya.github.io/">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/helen.png" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Helen Beetham</h4>
+  <h5><i>UoM</i></h5>
+  helen.beetham@manchester.ac.uk
+  <br /><a href="https://www.linkedin.com/in/helen-beetham/">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/mark.jpg" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Mark Carrigan</h4>
+  <h5><i>UoM</i></h5>
+  mark.carrigan@manchester.ac.uk
+  <br /><a href="https://markcarrigan.net/">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+</div>
+
+<div class="row">
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/tessy.jpg" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Teresa Cerratto-Pargman</h4>
+  <h5><i>SU</i></h5>
+  tessy@dsv.su.se
+  <br /><a href="https://www.su.se/english/profiles/t/tcerr">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/liane.jpg" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Liane Rose Colonna</h4>
+  <h5><i>SU</i></h5>
+  liane.colonna@juridicum.su.se
+  <br /><a href="https://www.su.se/english/profiles/l/lico9381">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/briony.jpg" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Briony Hannell</h4>
+  <h5><i>UoM</i></h5>
+  briony.hannell@manchester.ac.uk
+  <br /><a href="https://brionyhannell.com/">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+</div>
+
+<div class="row">
+
+
+<div class="col-sm-4 clearfix">
+  <img src="http://localhost:4000/images/teampic/amir.jpg" class="img-responsive" style="float:left; width:30%; margin-right:8px;" />
+  
+  <div style="overflow:hidden;">
+  <h4>Amir H. Payberah</h4>
+  <h5><i>KTH</i></h5>
+  payberah@kth.se
+  <br /><a href="https://payberah.github.io/">Webpage</a>
+  <br />
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+
+<p><br /><br /></p>
+:ET

@@ -1,0 +1,42 @@
+- name: Derya Akbaba
+  photo: derya.png
+  info: KTH
+  email: akbaba@kth.se
+  web: <a href="https://gotdairyya.github.io/">Webpage</a>
+
+- name: Helen Beetham 
+  photo: helen.png
+  info: UoM
+  email: helen.beetham@manchester.ac.uk 
+  web: <a href="https://www.linkedin.com/in/helen-beetham/">Webpage</a>
+
+- name: Mark Carrigan
+  photo: mark.jpg
+  info: UoM
+  email: mark.carrigan@manchester.ac.uk
+  web: <a href="https://markcarrigan.net/">Webpage</a>
+
+- name: Teresa Cerratto-Pargman
+  photo: tessy.jpg
+  info: SU
+  email: tessy@dsv.su.se
+  web: <a href="https://www.su.se/english/profiles/t/tcerr">Webpage</a>
+   
+- name: Liane Rose Colonna
+  photo: liane.jpg
+  info: SU
+  email: liane.colonna@juridicum.su.se
+  web: <a href="https://www.su.se/english/profiles/l/lico9381">Webpage</a>
+  
+- name: Briony Hannell
+  photo: briony.jpg
+  info: UoM
+  email: briony.hannell@manchester.ac.uk
+  web: <a href="https://brionyhannell.com/">Webpage</a>
+  
+- name: Amir H. Payberah
+  photo: amir.jpg
+  info: KTH 
+  email: payberah@kth.se
+  web: <a href="https://payberah.github.io/">Webpage</a>
+
