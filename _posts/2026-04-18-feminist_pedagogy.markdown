@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feminist Pedagogy and AI"
-date:   2026-04-18
+date:   2026-05-12
 author: FemAIEdu team
 categories: blog
 ---
